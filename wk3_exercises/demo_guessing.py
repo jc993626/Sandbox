@@ -50,12 +50,10 @@ def load_number(filename):
     except ValueError:
         print(f"Invalid contents in {filename}")
         number = 5
-    except FileNotFoundError
+    except FileNotFoundError:
         print(f"{filename} not found")
         number = 4
     else:
         infile.close()
     return number
 main()
-
-
