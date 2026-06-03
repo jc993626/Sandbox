@@ -1,0 +1,7 @@
+my name is brett
+# my usual password is **********
+# glad i used '*' instead of actual str
+fish live in the sea
+# i can sell dogshit to cats
+# boodoo bedoo, banana bus
+phins up!
