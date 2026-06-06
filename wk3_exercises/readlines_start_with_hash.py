@@ -1,3 +1,6 @@
+
+
+
 FILENAME = "readlines_w#.txt"
 in_file = open(FILENAME, "r")
 for line in in_file:
