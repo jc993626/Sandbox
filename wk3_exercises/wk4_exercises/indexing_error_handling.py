@@ -15,7 +15,8 @@ while not is_valid_input:
         print("Invalid number for selection of name")
 print(f"The name you selected is {names[name_to_display - 1]}")
 
-# how to have a selection of '1' be [0] index ??
+# could have used exception  "IndexError"
+
 
 
 
