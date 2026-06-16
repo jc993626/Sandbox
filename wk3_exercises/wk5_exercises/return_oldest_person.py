@@ -18,3 +18,4 @@ main()
 
 # did not do check if more than one person is oldest
 # by default, it returns first name if two are both highest ages.
+# lindsay did not do this in his version
