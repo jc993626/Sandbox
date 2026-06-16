@@ -15,3 +15,6 @@ def check_oldest_person(name_list, age_list):
 
 
 main()
+
+# did not do check if more than one person is oldest
+# by default, it returns first name if two are both highest ages.
